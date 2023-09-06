@@ -1,0 +1,3 @@
+# FigurasDosTarea
+# Solo es un prototipo aun se puede mejorar bastante
+# Hay cosas que se pueden mejorar pero por ahora sirve...
